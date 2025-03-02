@@ -1,0 +1,67 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: #3498db;
+    color: white;
+    padding: 20px;
+}
+
+h1, h2 {
+    margin: 0;
+    padding: 5px;
+}
+
+main {
+    padding: 20px;
+}
+
+/* Стили для изображений */
+img {
+    max-width: 80%;
+    height: auto;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+
+/* Стили для ссылок */
+a {
+    text-decoration: none;
+    color: #3498db;
+    font-weight: bold;
+    display: inline-block;
+    margin: 10px;
+}
+
+a:hover {
+    color: #2980b9;
+}
+
+/* Стили для списка содержания */
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+ul li {
+    margin: 10px 0;
+}
+
+/* Кнопки */
+.button {
+    background-color: #3498db;
+    color: white;
+    padding: 10px 15px;
+    border-radius: 5px;
+    display: inline-block;
+    margin-top: 10px;
+}
+
+.button:hover {
+    background-color: #2980b9;
+}
